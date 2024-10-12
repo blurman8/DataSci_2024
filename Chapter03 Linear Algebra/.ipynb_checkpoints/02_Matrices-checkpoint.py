@@ -18,9 +18,6 @@ def get_column(A, j):
     return [A_i[j] # jth element of row A_i
             for A_i in A] # for each row A_i
 
-def kronecker_delta(i: int, j:int) -> int:
-    return 1 if (i == j) else 0
-
 
 def make_matrix(num_rows, num_cols, entry_fn):
     """returns a num_rows x num_cols matrix
@@ -28,7 +25,7 @@ def make_matrix(num_rows, num_cols, entry_fn):
     return [[entry_fn(i, j) # given i, create a list
             for j in range(num_cols)] # [entry_fn(i, 0), ... ]
             for i in range(num_rows)] # create one list for each i
-print(make_matrix(4, 4, kronecker_delta))
+
 
 def is_diagonal(i, j):
     """1's on the 'diagonal', 0's everywhere else"""

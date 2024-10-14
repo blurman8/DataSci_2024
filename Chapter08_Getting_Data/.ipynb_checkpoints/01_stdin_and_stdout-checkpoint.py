@@ -17,7 +17,7 @@ count = 0
 for line in sys.stdin:
     count += 1
 # print goes to sys.stdout
-print (count)
+print (coun)
 
 
 #>type SomeFile.txt | python egrep.py "[0-9]" | python line_count.py

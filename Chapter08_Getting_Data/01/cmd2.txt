@@ -1,0 +1,1 @@
+WINDOWS #>type the_bible.txt | python most_common_words.py 10

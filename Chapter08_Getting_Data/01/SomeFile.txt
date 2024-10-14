@@ -1,0 +1,439 @@
+A TXT file, short for "text file," is a type of computer file that stores plain text information without 
+any formatting. These files are widely used for various purposes, such as storing data, writing scripts, 
+and exchanging information between different programs and platforms. TXT files are simple and easy to 
+create and edit, making them popular for a wide range of applications.
+
+One of the key characteristics of TXT files is their simplicity. Unlike other file formats such as 
+DOCX (Microsoft Word document) or PDF (Portable Document Format), which can contain complex formatting, 
+images, and other multimedia elements, TXT files contain only plain text. This simplicity makes TXT files 
+lightweight and easy to work with, as they can be opened and edited using a basic text editor program like 
+Notepad on Windows or TextEdit on macOS.
+
+One common use of TXT files is for storing data in a format that is easily readable by both humans and 
+computers. For example, a TXT file might contain a list of names, addresses, or other information that 
+needs to be processed by a computer program. Because TXT files are plain text, they can be easily parsed 
+and manipulated using programming languages like Python, Java, or C++.
+Another use of TXT files is for writing scripts or code. Many programming languages use TXT files as a 
+standard way to store source code. Programmers can write code in a text editor and save it as a TXT file, 
+which can then be compiled or interpreted by the appropriate programming language's compiler or interpreter.
+
+TXT files are also commonly used for sharing text-based information over the internet. For example, when you 
+download a README file from a software repository or a configuration file from a website, it is often in TXT 
+format. This is because TXT files are platform-independent and can be opened and read on any device without 
+the need for special software. When you download a TXT file from the internet, you are essentially downloading 
+a plain text document that can be opened and read using any text editor or word processing program. This makes 
+TXT files convenient for sharing information quickly and easily.
+
+If you're looking to work with TXT files or need a sample file for testing purposes, there are many resources 
+available online where you can download sample TXT files. Simply search for "sample TXT file download" or 
+"text file download," and you'll find a variety of options to choose from. These sample files can help you 
+familiarize yourself with the structure and content of TXT files and experiment with different text editing 
+and processing tasks.
+
+In conclusion, a TXT file is a simple, plain text document that is widely used for storing data, writing code, 
+and sharing text-based information. With their simplicity and versatility, TXT files play an essential role 
+in computing and are an indispensable tool for anyone working with text-based data or programming languages.
+
+Document files refer to electronic files that store and organize textual information, images, multimedia 
+elements, and other data in a digital format. These files are commonly used for creating, editing, and 
+storing various types of documents, such as text documents, presentations, spreadsheets, and more. 
+Document files play a crucial role in modern communication, education, business, and personal tasks, 
+providing a convenient way to manage and share information across different platforms and devices. 
+Some common document file formats include .docx, .pdf, .pptx, .xlsx, .txt, and .rtf, each designed to cater 
+to specific needs and software compatibility.
+
+The versatility and accessibility of document files have transformed the way we handle information, enabling 
+easy collaboration, version control, and efficient data management. Users can create and modify document files 
+using dedicated software applications like Microsoft Office, Google Docs, Apple Pages, and other productivity 
+tools. With the ability to integrate text, images, tables, charts, and more, document files facilitate the 
+creation of reports, essays, presentations, and a wide range of professional and personal documents, making 
+them an essential component of modern computing and communication.
+
+CSV (Comma-Separated Values) files are a widely embraced plain text format for storing and exchanging tabular 
+data. In a CSV file, each line typically represents a single record or row of data. The values within that 
+row are separated by commas or other specified field separators. Each value in a CSV file corresponds to 
+a cell within a table, where each column signifies a specific attribute or field.
+
+CSV files offer incredible versatility and can be easily generated, read, and manipulated using various 
+software applications and programming languages. They provide a standardized way to represent structured data, 
+making them a preferred choice for data interchange between different software systems without the need for 
+complex formatting.
+
+ID,Name,Value
+1,Name_1,58
+2,Name_2,50
+3,Name_3,16
+4,Name_4,57
+5,Name_5,5
+6,Name_6,72
+7,Name_7,39
+8,Name_8,15
+9,Name_9,57
+10,Name_10,33
+11,Name_11,87
+12,Name_12,25
+13,Name_13,46
+14,Name_14,62
+15,Name_15,63
+16,Name_16,38
+17,Name_17,19
+18,Name_18,68
+19,Name_19,91
+20,Name_20,2
+21,Name_21,64
+22,Name_22,19
+23,Name_23,85
+24,Name_24,13
+25,Name_25,94
+26,Name_26,45
+27,Name_27,81
+28,Name_28,83
+29,Name_29,58
+30,Name_30,23
+31,Name_31,15
+32,Name_32,42
+33,Name_33,86
+34,Name_34,48
+35,Name_35,51
+36,Name_36,36
+37,Name_37,36
+38,Name_38,84
+39,Name_39,88
+40,Name_40,8
+41,Name_41,45
+42,Name_42,44
+43,Name_43,23
+44,Name_44,77
+45,Name_45,21
+46,Name_46,63
+47,Name_47,64
+48,Name_48,42
+49,Name_49,77
+50,Name_50,46
+51,Name_51,26
+52,Name_52,9
+53,Name_53,97
+54,Name_54,10
+55,Name_55,18
+56,Name_56,98
+57,Name_57,18
+58,Name_58,5
+59,Name_59,89
+60,Name_60,3
+61,Name_61,17
+62,Name_62,39
+63,Name_63,57
+64,Name_64,85
+65,Name_65,3
+66,Name_66,7
+67,Name_67,11
+68,Name_68,5
+69,Name_69,54
+70,Name_70,6
+71,Name_71,15
+72,Name_72,93
+73,Name_73,43
+74,Name_74,78
+75,Name_75,45
+76,Name_76,2
+77,Name_77,1
+78,Name_78,6
+79,Name_79,74
+80,Name_80,46
+81,Name_81,19
+82,Name_82,27
+83,Name_83,68
+84,Name_84,14
+85,Name_85,27
+86,Name_86,84
+87,Name_87,73
+88,Name_88,45
+89,Name_89,43
+90,Name_90,28
+91,Name_91,76
+92,Name_92,18
+93,Name_93,95
+94,Name_94,22
+95,Name_95,59
+96,Name_96,94
+97,Name_97,16
+98,Name_98,14
+99,Name_99,31
+100,Name_100,79
+101,Name_101,95
+102,Name_102,89
+103,Name_103,23
+104,Name_104,21
+105,Name_105,71
+106,Name_106,91
+107,Name_107,51
+108,Name_108,58
+109,Name_109,95
+110,Name_110,45
+111,Name_111,92
+112,Name_112,57
+113,Name_113,73
+114,Name_114,76
+115,Name_115,80
+116,Name_116,81
+117,Name_117,25
+118,Name_118,91
+119,Name_119,34
+120,Name_120,7
+121,Name_121,8
+122,Name_122,89
+123,Name_123,85
+124,Name_124,50
+125,Name_125,70
+126,Name_126,59
+127,Name_127,45
+128,Name_128,4
+129,Name_129,47
+130,Name_130,95
+131,Name_131,77
+132,Name_132,82
+133,Name_133,74
+134,Name_134,63
+135,Name_135,67
+136,Name_136,21
+137,Name_137,18
+138,Name_138,7
+139,Name_139,62
+140,Name_140,25
+141,Name_141,60
+142,Name_142,16
+143,Name_143,93
+144,Name_144,72
+145,Name_145,50
+146,Name_146,10
+147,Name_147,18
+148,Name_148,72
+149,Name_149,98
+150,Name_150,63
+151,Name_151,14
+152,Name_152,54
+153,Name_153,2
+154,Name_154,27
+155,Name_155,8
+156,Name_156,17
+157,Name_157,68
+158,Name_158,18
+159,Name_159,4
+160,Name_160,75
+161,Name_161,75
+162,Name_162,56
+163,Name_163,33
+164,Name_164,61
+165,Name_165,40
+166,Name_166,63
+167,Name_167,93
+168,Name_168,40
+169,Name_169,65
+170,Name_170,29
+171,Name_171,28
+172,Name_172,15
+173,Name_173,37
+174,Name_174,80
+175,Name_175,33
+176,Name_176,54
+177,Name_177,37
+178,Name_178,76
+179,Name_179,92
+180,Name_180,13
+181,Name_181,32
+182,Name_182,14
+183,Name_183,9
+184,Name_184,80
+185,Name_185,62
+186,Name_186,96
+187,Name_187,81
+188,Name_188,32
+189,Name_189,77
+190,Name_190,87
+191,Name_191,90
+192,Name_192,71
+193,Name_193,36
+194,Name_194,98
+195,Name_195,49
+196,Name_196,75
+197,Name_197,96
+198,Name_198,11
+199,Name_199,53
+200,Name_200,81
+201,Name_201,61
+202,Name_202,89
+203,Name_203,3
+204,Name_204,83
+205,Name_205,78
+206,Name_206,77
+207,Name_207,76
+208,Name_208,17
+209,Name_209,52
+210,Name_210,95
+211,Name_211,35
+212,Name_212,95
+213,Name_213,39
+214,Name_214,53
+215,Name_215,26
+216,Name_216,23
+217,Name_217,1
+218,Name_218,35
+219,Name_219,2
+220,Name_220,4
+221,Name_221,9
+222,Name_222,47
+223,Name_223,33
+224,Name_224,80
+225,Name_225,74
+226,Name_226,33
+227,Name_227,30
+228,Name_228,68
+229,Name_229,6
+230,Name_230,59
+231,Name_231,41
+232,Name_232,5
+233,Name_233,5
+234,Name_234,69
+235,Name_235,44
+236,Name_236,34
+237,Name_237,72
+238,Name_238,18
+239,Name_239,37
+240,Name_240,92
+241,Name_241,68
+242,Name_242,53
+243,Name_243,32
+244,Name_244,79
+245,Name_245,13
+246,Name_246,69
+247,Name_247,81
+248,Name_248,97
+249,Name_249,68
+250,Name_250,97
+251,Name_251,30
+252,Name_252,33
+253,Name_253,51
+254,Name_254,6
+255,Name_255,94
+256,Name_256,82
+257,Name_257,96
+258,Name_258,86
+259,Name_259,71
+260,Name_260,69
+261,Name_261,72
+262,Name_262,3
+263,Name_263,91
+264,Name_264,95
+265,Name_265,28
+266,Name_266,63
+267,Name_267,26
+268,Name_268,20
+269,Name_269,78
+270,Name_270,37
+271,Name_271,69
+272,Name_272,27
+273,Name_273,92
+274,Name_274,56
+275,Name_275,84
+276,Name_276,41
+277,Name_277,38
+278,Name_278,15
+279,Name_279,6
+280,Name_280,5
+281,Name_281,2
+282,Name_282,13
+283,Name_283,40
+284,Name_284,55
+285,Name_285,96
+286,Name_286,74
+287,Name_287,88
+288,Name_288,72
+289,Name_289,65
+290,Name_290,51
+291,Name_291,20
+292,Name_292,76
+293,Name_293,67
+294,Name_294,29
+295,Name_295,12
+296,Name_296,54
+297,Name_297,9
+298,Name_298,21
+299,Name_299,98
+300,Name_300,66
+301,Name_301,19
+302,Name_302,50
+303,Name_303,42
+304,Name_304,30
+305,Name_305,99
+306,Name_306,15
+307,Name_307,83
+308,Name_308,86
+309,Name_309,93
+310,Name_310,1
+311,Name_311,58
+312,Name_312,76
+313,Name_313,83
+314,Name_314,59
+315,Name_315,67
+316,Name_316,11
+317,Name_317,62
+318,Name_318,84
+319,Name_319,71
+320,Name_320,67
+321,Name_321,89
+322,Name_322,52
+323,Name_323,58
+324,Name_324,95
+325,Name_325,56
+326,Name_326,50
+327,Name_327,7
+328,Name_328,88
+329,Name_329,49
+330,Name_330,51
+331,Name_331,47
+332,Name_332,67
+333,Name_333,26
+334,Name_334,46
+335,Name_335,57
+336,Name_336,48
+337,Name_337,3
+338,Name_338,69
+339,Name_339,40
+340,Name_340,12
+341,Name_341,30
+342,Name_342,14
+343,Name_343,43
+344,Name_344,45
+345,Name_345,17
+346,Name_346,74
+347,Name_347,55
+348,Name_348,74
+349,Name_349,38
+350,Name_350,28
+351,Name_351,79
+352,Name_352,19
+353,Name_353,6
+354,Name_354,63
+355,Name_355,90
+356,Name_356,61
+357,Name_357,40
+358,Name_358,95
+359,Name_359,69
+360,Name_360,8
+
+Despite their simplicity and human-readable nature, CSV files do have limitations. They lack built-in support 
+for data types or complex data relationships found in more advanced file formats. Nevertheless, CSV files 
+remain a popular choice for tasks such as data import/export, data analysis, and database population due 
+to their straightforward format and broad compatibility across different platforms.
+
+When working with CSV files, it's important to understand concepts such as escape characters (like double 
+quotes), used to handle special cases where data values contain commas or other field separators. 
+Additionally, many CSV files include a header line at the beginning, providing column names for clarity.
+
+If you're looking for practical examples, you can easily find and download sample CSV files online. 
+These sample CSV files are valuable resources for getting hands-on experience with the structure of 
+a comma-separated value CSV file.
+
+In summary, CSV files, often referred to as a flat file format, offer a straightforward and efficient 
+way to manage tabular data. They play a crucial role in various aspects of data management, including 
+CSV import.

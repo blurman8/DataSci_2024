@@ -35,7 +35,6 @@ ys1 = [ x + random_normal() / 2 for x in xs]
 ys2 = [-x + random_normal() / 2 for x in xs]
 
 
-
 plt.scatter(xs, ys1, marker='.', color='black', label='ys1')
 plt.scatter(xs, ys2, marker='.', color='gray', label='ys2')
 plt.xlabel('xs')

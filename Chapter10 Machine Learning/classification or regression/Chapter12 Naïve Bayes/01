@@ -1,0 +1,34 @@
+#True positive: “This message is spam, and we correctly predicted spam.”
+#False positive (Type 1 Error): “This message is not spam, but we predicted spam.”
+#False negative (Type 2 Error): “This message is spam, but we predicted not spam.”
+#True negative: “This message is not spam, and we correctly predicted not spam.”
+
+#            leukemia    no leukemia total
+#“Luke”      70          4,930       5,000
+#not “Luke”  13,930      981,070     995,000
+#total       14,000      986,000     1,000,000
+
+##########################################
+
+import matplotlib.pyplot as plt
+import numpy
+from sklearn import metrics
+
+actual = numpy.random.binomial(1,.9,size = 1000)
+predicted = numpy.random.binomial(1,.9,size = 1000)
+
+confusion_matrix = metrics.confusion_matrix(actual, predicted)
+
+cm_display = metrics.ConfusionMatrixDisplay(confusion_matrix = confusion_matrix, display_labels = [0, 1])
+
+cm_display.plot()
+plt.show()
+
+Accuracy = metrics.accuracy_score(actual, predicted)
+Precision = metrics.precision_score(actual, predicted)
+Sensitivity_recall = metrics.recall_score(actual, predicted)
+Specificity = metrics.recall_score(actual, predicted, pos_label=0)
+
+F1_score = metrics.f1_score(actual, predicted)
+
+

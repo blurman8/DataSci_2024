@@ -1,8 +1,10 @@
 from matplotlib import pyplot as plt
-from collections import Counter
 num_friends = [100, 49, 41, 40, 25,
                 # ... and lots more
                 ]
+
+
+
 friend_counts = Counter(num_friends)
 xs = range(101) # largest value is 100
 ys = [friend_counts[x] for x in xs] # height is just # of friends

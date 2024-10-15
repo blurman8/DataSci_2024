@@ -8,7 +8,7 @@ def derivative(x):
     return 2 * x
 
 derivative_estimate = partial(difference_quotient, square, h=0.00001)'
-
+print (derivative_estimate)
 # plot to show they're basically the same
 import matplotlib.pyplot as plt
 x = range(-10,10)

@@ -1,0 +1,2 @@
+WINDOWS   #>type SomeFile.txt | python egrep.py "[0-9]" | python line_count.py
+OSX LINUX #>cat SomeFile.txt | python egrep.py "[0-9]" | python line_count.py
